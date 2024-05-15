@@ -1,2 +1,8 @@
-#notes{background-image:url(../images/pen.svg);background-size:1.5em;background-position:.75em 50%;background-repeat:no-repeat}
+#notes {
+    background-image: url(../images/pen.svg);
+    background-size: 1.5em;
+    background-position: .75em 50%;
+    background-repeat: no-repeat
+}
+
 /*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uc2NzcyIsIm1haW4uY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLE9BQ0Usd0NBQUEsQUFDQSxzQkFBQSxBQUNBLDhCQUFBLEFBQ0EsMkJBQUEsQ0NDRCIsImZpbGUiOiJtYWluLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIiNub3RlcyB7XHJcbiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKC4uL2ltYWdlcy9wZW4uc3ZnKTtcclxuICBiYWNrZ3JvdW5kLXNpemU6IDEuNWVtO1xyXG4gIGJhY2tncm91bmQtcG9zaXRpb246IDAuNzVlbSA1MCU7XHJcbiAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcclxufVxyXG4iLCIjbm90ZXMge1xuICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoLi4vaW1hZ2VzL3Blbi5zdmcpO1xuICBiYWNrZ3JvdW5kLXNpemU6IDEuNWVtO1xuICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiAwLjc1ZW0gNTAlO1xuICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xufSJdfQ== */
